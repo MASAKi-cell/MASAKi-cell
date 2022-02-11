@@ -1,4 +1,4 @@
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MASAKi-cell&layout=compact&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MASAKi-cell&theme=solarized_dark)
 
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASAKi-cell&show_icons=true&theme=cobalt)</div>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MASAKi-cell&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MASAKi-cell&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MASAKi-cell&theme=solarized_dark) 
