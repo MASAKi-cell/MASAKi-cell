@@ -23,8 +23,20 @@
 
 <h2>Socials</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=github,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MASAKi-cell)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/bje351493)
+
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,react,angular,nodejs,electron,mysql,docker,js,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs)](https://nextjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.dev/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=electron)](https://www.electronjs.org/ja/docs/latest/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/jp/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/ja/)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
