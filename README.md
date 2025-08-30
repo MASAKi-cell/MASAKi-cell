@@ -20,3 +20,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MASAKi-cell&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MASAKi-cell&theme=solarized_dark)
 
+
+<h2>Socials</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=github,twitter)](https://skillicons.dev)
+
+<h2>Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,react,angular,nodejs,electron,mysql,docker,js,sass)](https://skillicons.dev)
